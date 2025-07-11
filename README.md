@@ -39,6 +39,26 @@ I18n supported:
 - Pack of illustrations: [Noto avatar](https://abstractlab.gumroad.com/l/noto-avatar)
 - Assets licensed under [CC0](https://creativecommons.org/publicdomain/zero/1.0/) <img src="./public/icon/cc0.svg" width="50"/>
 
+## Tech Stack
+
+This project is built with the following technologies:
+
+*   **Framework**: [Next.js](https://nextjs.org/) (a [React](https://reactjs.org/) framework)
+*   **Language**: [TypeScript](https://www.typescriptlang.org/)
+*   **Styling**: [Tailwind CSS](https://tailwindcss.com/)
+*   **Internationalization (i18n)**: [next-i18next](https://github.com/i18next/next-i18next)
+*   **Progressive Web App (PWA)**: [next-pwa](https://github.com/shadowwalker/next-pwa)
+*   **Linting**: [ESLint](https://eslint.org/)
+*   **Formatting**: [Prettier](https://prettier.io/)
+*   **Git Hooks**: [Husky](https://typicode.github.io/husky/)
+*   **Commit Message Linting**: [Commitlint](https://commitlint.js.org/)
+*   **Image Generation/Manipulation**:
+    *   [Puppeteer](https://pptr.dev/)
+    *   [html2canvas](https://html2canvas.hertzen.com/)
+*   **Date/Time Manipulation**: [Day.js](https://day.js.org/)
+*   **Package Management**: [Yarn](https://yarnpkg.com/)
+*   **Deployment**: Likely Vercel (common for Next.js projects, though not explicitly stated in files)
+
 ## Contact
 
 - Open an [issue](https://github.com/Mayandev/notion-avatar/issues) if you have any question about this app.
